@@ -86,11 +86,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 <div style="display: flex; justify-content: space-between;">
-    <a href="http://www.github.com/Hen-Mateus">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <a href="http://www.github.com/hen-mateus">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hen-mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
-    <a href="https://github.com/Hen-Mateus">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Mateus&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <a href="https://github.com/hen-mateus">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 </div>
 
