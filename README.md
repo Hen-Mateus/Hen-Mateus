@@ -33,9 +33,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -82,8 +79,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </div>
 </div>
 
-
-<br/>  
 
 ## Github Stats  
 <div style="display: flex; justify-content: space-between;">
