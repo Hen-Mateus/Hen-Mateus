@@ -41,9 +41,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Languages and Tools  
 
 
-<table>
+<table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
   <tr>
-    <td>
+    <td style="background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; padding: 20px;">
       <h3 align="center">Frontend</h3>
       <div align="center">
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -54,7 +54,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
       </div>
     </td>
-    <td>
+    <td style="background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; padding: 20px;">
       <h3 align="center">Backend</h3>
       <div align="center">
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -64,7 +64,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; padding: 20px;">
       <h3 align="center">Programming Languages</h3>
       <div align="center">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
@@ -72,7 +72,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
       </div>
     </td>
-    <td>
+    <td style="background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; padding: 20px;">
       <h3 align="center">Design</h3>
       <div align="center">
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
@@ -86,10 +86,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </tr>
 </table>
 
-  
-
 <br/>  
-
 
 ## Github Stats  
 <div style="display: flex; justify-content: space-between;">
