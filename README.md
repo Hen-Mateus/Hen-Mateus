@@ -87,7 +87,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><a href="http://www.github.com/Hen-Mateus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a></div>
+<a href="http://www.github.com/Hen-Mateus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 
 </td><td valign="top" width="50%">
 
