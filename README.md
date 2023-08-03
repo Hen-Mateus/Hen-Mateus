@@ -38,9 +38,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Languages and Tools  
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 20px;">
   <!-- Frontend Section -->
-  <div>
+  <div style="flex: 1;">
     <h4 style="margin: 0;">Frontend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -53,7 +53,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </div>
   
   <!-- Backend Section -->
-  <div>
+  <div style="flex: 1;">
     <h4 style="margin: 0;">Backend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -63,9 +63,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </div>
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="display: flex; gap: 20px;">
   <!-- Programming Languages Section -->
-  <div>
+  <div style="flex: 1;">
     <h4 style="margin: 0;">Programming Languages</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
@@ -75,7 +75,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   </div>
   
   <!-- Design Section -->
-  <div>
+  <div style="flex: 1;">
     <h4 style="margin: 0;">Design</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
@@ -87,6 +87,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </div>
   </div>
 </div>
+
 
 
 <br>
