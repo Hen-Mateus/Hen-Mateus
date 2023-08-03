@@ -87,11 +87,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<a href="http://www.github.com/Hen-Mateus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=hen-mateus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="right"><a href="https://github.com/Hen-Mateus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Mateus&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&hide_border=true&layout=compact" align="right" /></div>
 
 </td></tr></table>
 <br />
