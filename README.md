@@ -34,10 +34,9 @@
   ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js)
 
   ### Design
-  ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae,)
-    
-      <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>
-
+  ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
+  ![My Skills](https://profilinator.rishav.dev/skills-assets/adobeindesign.svg)
+  
 ## My Repositories
 
 [![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
