@@ -35,7 +35,6 @@
 
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
-  ![My Skills](https://profilinator.rishav.dev/skills-assets/adobeindesign.svg)
   
 ## My Repositories
 
