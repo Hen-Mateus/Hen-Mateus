@@ -77,20 +77,10 @@
 <br>
 
 ## Github Stats  
-<div style="display: flex; justify-content: space-between;">
-    <a href="http://www.github.com/hen-mateus">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hen-mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
-
-
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hen-mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&langs_count=8&card_width=320" />
 </a>
-
