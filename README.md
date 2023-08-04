@@ -78,8 +78,8 @@
 
 ## My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website)](https://github.com/hen-mateus/Energy-Exchange-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Website)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Websitebg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Websitebg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
 
 ## Github Stats  
 
