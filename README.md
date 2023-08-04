@@ -18,8 +18,6 @@
 
 🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!  
 
-<br>
-
 ## Languages and Tools  
 
 <div style="display: flex; gap: 20px;">
