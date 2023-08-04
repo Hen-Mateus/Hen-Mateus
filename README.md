@@ -78,10 +78,10 @@
 
 ## My Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&hen-mateus" />
+<a href="https://github.com/hen-mateus/Energy-Exchange-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&Energy-Exchange-Website" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/hen-mateus/Dia-das-Empresas-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&Dia-das-Empresas-Website" />
 </a>
 
