@@ -37,7 +37,6 @@
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
 
   ## Frontend                  | ## Backend
---------------------------- | ---------------------------
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress) | ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize)
 
   
