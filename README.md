@@ -78,12 +78,8 @@
 
 ## My Repositories
 
-<a href="https://github.com/hen-mateus/hen-mateus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&hen-mateus" />
-</a>
-<a href="https://github.com/hen-mateus/Dia-das-Empresas-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&Dia-das-Empresas-Website" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats  
 
