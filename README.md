@@ -78,8 +78,14 @@
 
 ## My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Website&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
+[![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
+[![DiadasEmpresas Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Website&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
+
+[![MovieFlix Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=MovieFlix-Dashboard&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/MovieFlix-Dashboard)
+[![VetClinic Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Vet-Clinic-Manager&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Vet-Clinic-Manager)
+
+[![FoodMarket Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Food-Market&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Food-Market)
+[![InfoPage Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Info-Page&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF)](https://github.com/hen-mateus/Info-Page)
 
 ## Github Stats  
 
