@@ -36,6 +36,8 @@
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
 
+  <br>
+
 ## My Repositories
 
 [![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
