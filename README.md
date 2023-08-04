@@ -23,7 +23,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## About
-🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer | Creative Designer 🎨
+🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
 
 🏛️ Studying: Bachelor in Technology and Design Multimedia at ESTGV, Viseu
 
