@@ -36,8 +36,20 @@
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
 
-  ## Frontend                  |  Backend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress) | ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize)
+ <div style="display: flex; justify-content: space-between;">
+  
+  <div style="flex: 1; text-align: center;">
+    <h3>Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" alt="Frontend Skills">
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize" alt="Backend Skills">
+  </div>
+
+</div>
+
 
   
 ## My Repositories
