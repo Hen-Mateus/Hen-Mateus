@@ -16,10 +16,7 @@
 
 <div align="center">
 <img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>  
-  
-
-<br/>  
+</div>    
 
 <br>
 
@@ -74,8 +71,6 @@
     </div>
   </div>
 </div>
-
-
 
 <br>
 
