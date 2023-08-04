@@ -82,5 +82,5 @@
   <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hen-mateus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=199547&hide_border=true&text_color=FFFFFF" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=FFFFFF&hide_border=true&text_color=FFFFFF" />
 </a>
