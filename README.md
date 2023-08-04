@@ -24,7 +24,7 @@
 
 ## Languages and Tools  
 
-  <h4 style="margin: 0;">Frontend</h4>
+  ## Frontend
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
