@@ -26,44 +26,17 @@
 
   ### Frontend
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)
-  
-  <!-- Backend Section -->
-  <div style="flex: 1;">
-    <h4 style="margin: 0;">Backend</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-    </div>
-  </div>
-</div>
 
-<div style="display: flex; gap: 20px;">
-  <!-- Programming Languages Section -->
-  <div style="flex: 1;">
-    <h4 style="margin: 0;">Programming Languages</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-      <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
-      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-    </div>
-  </div>
-  
-  <!-- Design Section -->
-  <div style="flex: 1;">
-    <h4 style="margin: 0;">Design</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
+  ### Backend
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize)
+
+  ### Programming Languages
+  ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js)
+
+  ### Design
+  ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae,)
+    
       <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>
-      <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
-      <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>
-    </div>
-  </div>
-</div>
-
-<br>
 
 ## My Repositories
 
