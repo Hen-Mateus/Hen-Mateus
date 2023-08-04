@@ -22,11 +22,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Rapidfire  
-🎓 Final-Year Multimedia Technology and Design Student | Aspiring Web Developer | Creative Designer 🎨
+## About
+🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer | Creative Designer 🎨
 
-🏛️ Studying: B.Sc. in Multimedia Technology and Design at ESTGV, Viseu
-🌐 Specializing in: Programming, Web Development, Web Design, and Multimedia
+🏛️ Studying: Bachelor in Technology and Design Multimedia at ESTGV, Viseu
+
+🌐 Specializing in: Full Stack Development, .NET Application Programming and Web Design
 
 🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
