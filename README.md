@@ -1,5 +1,11 @@
 ## Hey 👋, I'm Henrique Mateus!  
 
+<br>
+
+<div align="center">
+<img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>  
+
 ### Glad to see you here!  
 
 🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
@@ -10,13 +16,7 @@
 
 🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
-🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
-
-<br>
-
-<div align="center">
-<img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>    
+🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!  
 
 <br>
 
