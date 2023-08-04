@@ -36,22 +36,6 @@
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
 
- <div style="display: flex; justify-content: space-between;">
-  
-  <div style="flex: 1; text-align: center;">
-    <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" alt="Frontend Skills">
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize" alt="Backend Skills">
-  </div>
-
-</div>
-
-
-  
 ## My Repositories
 
 [![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
