@@ -85,7 +85,7 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compactstroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
