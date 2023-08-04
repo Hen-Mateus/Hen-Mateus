@@ -8,6 +8,8 @@
 
 ### Glad to see you here!  
 
+<br>
+
 🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
 
 🏛️ Studying: Bachelor in Technology and Design Multimedia at ESTGV, Viseu
@@ -17,6 +19,8 @@
 🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
 🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!  
+
+<br>
 
 ## Languages and Tools  
 
