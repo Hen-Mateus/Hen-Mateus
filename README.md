@@ -24,8 +24,7 @@
 
 ## Languages and Tools  
 
-  # Frontend
-  
+  ### Frontend
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)
   
   <!-- Backend Section -->
