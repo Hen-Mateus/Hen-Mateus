@@ -85,5 +85,5 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-mateus&layout=compact&theme=radical)
 
