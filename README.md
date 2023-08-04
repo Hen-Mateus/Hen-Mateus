@@ -9,20 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
-
-<div align="center">
-<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" align="center" height="400" width="" />
-</div>  
-  
-
-<br/>  
-
-
-## About
 🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
 
 🏛️ Studying: Bachelor in Technology and Design Multimedia at ESTGV, Viseu
@@ -32,6 +19,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
 🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
+  
+
+<div align="center">
+<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" align="center" height="400" width="" />
+</div>  
+  
+
+<br/>  
 
 <br>
 
