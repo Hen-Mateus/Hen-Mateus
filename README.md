@@ -23,16 +23,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+🎓 Final-Year Multimedia Technology and Design Student | Aspiring Web Developer | Creative Designer 🎨
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+🏛️ Studying: B.Sc. in Multimedia Technology and Design at ESTGV, Viseu
+🌐 Specializing in: Programming, Web Development, Web Design, and Multimedia
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
 
 <br>
 
