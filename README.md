@@ -29,9 +29,11 @@
   <div style="flex: 1;">
     <h4 style="margin: 0;">Frontend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
     </div>
   </div>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   <!-- Backend Section -->
   <div style="flex: 1;">
