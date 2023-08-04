@@ -26,7 +26,7 @@
 
   # Frontend
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)]
   
   <!-- Backend Section -->
   <div style="flex: 1;">
