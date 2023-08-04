@@ -1,12 +1,4 @@
 ## Hey 👋, I'm Henrique Mateus!  
-  
-
-<a href="https://linkedin.com/in/henmateus" target="_blank">
-<img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
 
 ### Glad to see you here!  
 
@@ -22,7 +14,7 @@
   
 
 <div align="center">
-<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" align="center" height="400" width="" />
+<img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>  
   
 
