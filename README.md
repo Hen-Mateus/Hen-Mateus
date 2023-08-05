@@ -22,10 +22,11 @@
 
 🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
 
+<div>
 <p>🔗 Connect with me on LinkedIn:</p> <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+</div>
 <br>
 
 ## Languages and Tools  
