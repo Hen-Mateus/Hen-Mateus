@@ -22,7 +22,7 @@
 
 🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
 
-🔗 Connect with me on LinkedIn: [linkedin.com/in/yourlinkedinusername](https://www.linkedin.com/in/henmateus/)
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/henmateus/
 
 ## Languages and Tools  
 
