@@ -18,7 +18,13 @@
 
 🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
 
-🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!  
+📌 Every repository you'll find here on my GitHub is a testament to my dedication and growth during my undergraduate years. These projects represent the culmination of my learning and the application of classroom knowledge, each contributing to my evolution as a Full Stack Developer.
+
+🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
+
+🔗 Connect with me on LinkedIn: <a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br>
 
