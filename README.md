@@ -42,15 +42,12 @@
 ## My Repositories
 
 [![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
-
 [![DiadasEmpresas Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
 
 [![MovieFlix Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=MovieFlix-Dashboard&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/MovieFlix-Dashboard)
-
 [![VetClinic Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=VetClinic-Manager-App&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/VetClinic-Manager-App)
 
 [![FoodMarket Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=FoodMarket-App&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/FoodMarket-App)
-
 [![InfoPage Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Info-Page&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Info-Page)
 
 ## Github Stats  
