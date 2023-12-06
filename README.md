@@ -2,7 +2,7 @@
 
 ### Glad to see you here!  
 
-🎓 Final-Year Technology and Design Multimedia Student at ESTGV, Viseu | Web Developer 🌐
+🎓 Technology and Design Multimedia Student at ESTGV, Viseu | Web Developer 🌐
 
 🌐 Specializing in: Web Development, .NET Application Programming and Web Design
 
