@@ -4,11 +4,11 @@
 
 🎓 Technology and Design Multimedia Student at ESTGV, Viseu | Web Developer 🌐
 
-🌐 Specializing in: Web Development, .NET Application Programming and Web Design
-
 🔍 I'm a motivated individual with a deep passion for Web Development. My fascination with this field continually drives me to enhance my skills and knowledge. With six years of experience in multimedia, design, and programming, my goal is to apply this expertise to create innovative and challenging projects.
 
 🚀 The constant evolution of technologies in Web Development inspires me to continuously explore and refine my abilities. I'm excited to further expand my knowledge in this field and gain practical experience in a professional environment.
+
+🌐 Specializing in: Web Development, .NET Application Programming and Web Design
 
 📌 Every repository you'll find here on my GitHub is a testament to my dedication and growth during my undergraduate years. These projects represent the culmination of my learning and the application of classroom knowledge, each contributing to my evolution as a Web Developer.
 
