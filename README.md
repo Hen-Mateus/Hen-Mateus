@@ -2,17 +2,15 @@
 
 ### Glad to see you here!  
 
-🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
+🎓 Final-Year Technology and Design Multimedia Student at ESTGV, Viseu | Web Developer 🌐
 
-🏛️ Studying: Bachelor in Technology and Design Multimedia at ESTGV, Viseu
+🌐 Specializing in: Web Development, .NET Application Programming and Web Design
 
-🌐 Specializing in: Full Stack Development, .NET Application Programming and Web Design
+🔍 I'm a motivated individual with a deep passion for Web Development. My fascination with this field continually drives me to enhance my skills and knowledge. With six years of experience in multimedia, design, and programming, my goal is to apply this expertise to create innovative and challenging projects.
 
-🔍 Passionate about merging technology and design to create captivating digital experiences. Proficient in programming languages and skilled in crafting visually appealing websites and interfaces. Excited to bring creativity and technical expertise to innovative projects.
+🚀 The constant evolution of technologies in Web Development inspires me to continuously explore and refine my abilities. I'm excited to further expand my knowledge in this field and gain practical experience in a professional environment.
 
-📌 Every repository you'll find here on my GitHub is a testament to my dedication and growth during my undergraduate years. These projects represent the culmination of my learning and the application of classroom knowledge, each contributing to my evolution as a Full Stack Developer.
-
-🚀 Seeking opportunities to apply classroom knowledge and gain practical experience in the field. Open to collaborations, internships, and freelance projects. Let's connect and explore possibilities!
+📌 Every repository you'll find here on my GitHub is a testament to my dedication and growth during my undergraduate years. These projects represent the culmination of my learning and the application of classroom knowledge, each contributing to my evolution as a Web Developer.
 
 🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/henmateus/](https://www.linkedin.com/in/henmateus/)
 
