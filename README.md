@@ -1,12 +1,6 @@
 ## Hey 👋, I'm Henrique Mateus!  
-<br>
-
-<!--<div align="center">
-<img src=https://github.com/hen-mateus/hen-mateus/blob/main/hm_gif.gif?raw=true=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>-->
 
 ### Glad to see you here!  
-<br>
 
 🎓 Final-Year Technology and Design Multimedia Student | Aspiring Full Stack Developer 🌐
 
@@ -35,20 +29,7 @@
 
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
-
   <br>
-
-## My Repositories
-
-[![EnergyExchange Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Energy-Exchange-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Energy-Exchange-Website)
-[![DiadasEmpresas Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Dia-das-Empresas-Website&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Dia-das-Empresas-Website)
-
-[![MovieFlix Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=MovieFlix-Dashboard&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/MovieFlix-Dashboard)
-[![WebPortfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=Web-Portfolio&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/Web-Portfolio)
-
-[![VetClinic Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=VetClinic-Manager-App&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/VetClinic-Manager-App)
-[![FoodMarket Card](https://github-readme-stats.vercel.app/api/pin/?username=hen-mateus&repo=FoodMarket-App&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/hen-mateus/FoodMarket-App)
-
 ## Github Stats  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
