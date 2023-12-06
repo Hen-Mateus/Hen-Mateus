@@ -23,7 +23,7 @@
   ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,sequelize)
 
   ### Programming Languages
-  ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js)
+  ![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet)
 
   ### Design
   ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,ae)
