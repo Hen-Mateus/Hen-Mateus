@@ -13,6 +13,7 @@
 📌 Every repository you'll find here on my GitHub is a testament to my dedication and growth during my undergraduate years. These projects represent the culmination of my learning and the application of classroom knowledge, each contributing to my evolution as a Web Developer.
 
 🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/henmateus/](https://www.linkedin.com/in/henmateus/)
+
 🌐 Visit my Portfolio: [https://henriquemateus.netlify.app/](https://henriquemateus.netlify.app/)
 
 ## Languages and Tools  
